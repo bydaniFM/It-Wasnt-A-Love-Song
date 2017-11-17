@@ -1,0 +1,45 @@
+# The shadow puzzle color is:
+
+R: 238
+G: 211
+B: 102
+
+-> the first three slider icons are colored like this, they stay like this the whole game
+-> during the shadow puzzle the record button gets this color if player is at the right position
+
+
+# The video puzzle color is
+
+R: 132
+G: 162
+B: 200
+
+-> If video can be collected, record button becomes this color
+-> During video puzzle, slider icon number 4 and 5 become this color
+
+# The sound puzzle color is
+
+R: 62
+G: 155
+B: 139 
+
+-> If sound can be collected, record button becomes this color
+-> During sound puzzle, slider icon number 6 and 7 become this color
+
+# The voice puzzle color is
+
+R: 130
+G: 53
+B: 68
+
+-> If voice can be collected, record button becomes this color
+-> During voice puzzle, slider icon number 8 becomes this color
+
+
+# the general green highlight color for the game is:
+
+R:67
+G:254
+B: 163
+
+-> highlights around selected thumbnails in the timeline and in inventory
